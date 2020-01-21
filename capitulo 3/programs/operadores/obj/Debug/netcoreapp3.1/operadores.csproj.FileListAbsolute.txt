@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/bin/Debug/netcoreapp3.1/operadores
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/bin/Debug/netcoreapp3.1/operadores.deps.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/bin/Debug/netcoreapp3.1/operadores.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/bin/Debug/netcoreapp3.1/operadores.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/bin/Debug/netcoreapp3.1/operadores.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/bin/Debug/netcoreapp3.1/operadores.pdb
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/obj/Debug/netcoreapp3.1/operadores.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/obj/Debug/netcoreapp3.1/operadores.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/obj/Debug/netcoreapp3.1/operadores.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/obj/Debug/netcoreapp3.1/operadores.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/operadores/obj/Debug/netcoreapp3.1/operadores.pdb

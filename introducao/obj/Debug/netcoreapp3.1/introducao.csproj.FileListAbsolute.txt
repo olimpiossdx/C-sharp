@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/introducao/bin/Debug/netcoreapp3.1/introducao
+/home/olimpio/Documentos/estudos/c#/introducao/bin/Debug/netcoreapp3.1/introducao.deps.json
+/home/olimpio/Documentos/estudos/c#/introducao/bin/Debug/netcoreapp3.1/introducao.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/introducao/bin/Debug/netcoreapp3.1/introducao.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/introducao/bin/Debug/netcoreapp3.1/introducao.dll
+/home/olimpio/Documentos/estudos/c#/introducao/bin/Debug/netcoreapp3.1/introducao.pdb
+/home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.dll
+/home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.pdb

@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/bin/Debug/netcoreapp3.1/entradadedados
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/bin/Debug/netcoreapp3.1/entradadedados.deps.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/bin/Debug/netcoreapp3.1/entradadedados.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/bin/Debug/netcoreapp3.1/entradadedados.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/bin/Debug/netcoreapp3.1/entradadedados.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/bin/Debug/netcoreapp3.1/entradadedados.pdb
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/obj/Debug/netcoreapp3.1/entradadedados.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/obj/Debug/netcoreapp3.1/entradadedados.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/obj/Debug/netcoreapp3.1/entradadedados.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/obj/Debug/netcoreapp3.1/entradadedados.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/entradadedados/obj/Debug/netcoreapp3.1/entradadedados.pdb

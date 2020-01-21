@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/obj/Debug/netcoreapp3.1/exfixacao_1.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/obj/Debug/netcoreapp3.1/exfixacao_1.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/obj/Debug/netcoreapp3.1/exfixacao_1.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/bin/Debug/netcoreapp3.1/exfixacao_1
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/bin/Debug/netcoreapp3.1/exfixacao_1.deps.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/bin/Debug/netcoreapp3.1/exfixacao_1.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/bin/Debug/netcoreapp3.1/exfixacao_1.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/bin/Debug/netcoreapp3.1/exfixacao_1.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/bin/Debug/netcoreapp3.1/exfixacao_1.pdb
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/obj/Debug/netcoreapp3.1/exfixacao_1.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exfixacao_1/obj/Debug/netcoreapp3.1/exfixacao_1.pdb

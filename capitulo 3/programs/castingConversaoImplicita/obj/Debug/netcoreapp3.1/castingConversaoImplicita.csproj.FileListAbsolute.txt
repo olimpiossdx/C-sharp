@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/obj/Debug/netcoreapp3.1/castingConversaoImplicita.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/obj/Debug/netcoreapp3.1/castingConversaoImplicita.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/obj/Debug/netcoreapp3.1/castingConversaoImplicita.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/bin/Debug/netcoreapp3.1/castingConversaoImplicita
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/bin/Debug/netcoreapp3.1/castingConversaoImplicita.deps.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/bin/Debug/netcoreapp3.1/castingConversaoImplicita.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/bin/Debug/netcoreapp3.1/castingConversaoImplicita.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/bin/Debug/netcoreapp3.1/castingConversaoImplicita.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/bin/Debug/netcoreapp3.1/castingConversaoImplicita.pdb
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/obj/Debug/netcoreapp3.1/castingConversaoImplicita.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/castingConversaoImplicita/obj/Debug/netcoreapp3.1/castingConversaoImplicita.pdb

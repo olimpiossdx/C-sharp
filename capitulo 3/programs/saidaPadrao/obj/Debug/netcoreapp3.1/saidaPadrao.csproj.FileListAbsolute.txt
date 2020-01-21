@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/bin/Debug/netcoreapp3.1/saidaPadrao
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/bin/Debug/netcoreapp3.1/saidaPadrao.deps.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/bin/Debug/netcoreapp3.1/saidaPadrao.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/bin/Debug/netcoreapp3.1/saidaPadrao.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/bin/Debug/netcoreapp3.1/saidaPadrao.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/bin/Debug/netcoreapp3.1/saidaPadrao.pdb
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/obj/Debug/netcoreapp3.1/saidaPadrao.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/obj/Debug/netcoreapp3.1/saidaPadrao.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/obj/Debug/netcoreapp3.1/saidaPadrao.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/obj/Debug/netcoreapp3.1/saidaPadrao.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/saidaPadrao/obj/Debug/netcoreapp3.1/saidaPadrao.pdb

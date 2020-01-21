@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/bin/Debug/netcoreapp3.1/exerciciocomposto
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/bin/Debug/netcoreapp3.1/exerciciocomposto.deps.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/bin/Debug/netcoreapp3.1/exerciciocomposto.runtimeconfig.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/bin/Debug/netcoreapp3.1/exerciciocomposto.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/bin/Debug/netcoreapp3.1/exerciciocomposto.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/bin/Debug/netcoreapp3.1/exerciciocomposto.pdb
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/obj/Debug/netcoreapp3.1/exerciciocomposto.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/obj/Debug/netcoreapp3.1/exerciciocomposto.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/obj/Debug/netcoreapp3.1/exerciciocomposto.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/obj/Debug/netcoreapp3.1/exerciciocomposto.dll
+/home/olimpio/Documentos/estudos/c#/capitulo 3/programs/exerciciocomposto/obj/Debug/netcoreapp3.1/exerciciocomposto.pdb
