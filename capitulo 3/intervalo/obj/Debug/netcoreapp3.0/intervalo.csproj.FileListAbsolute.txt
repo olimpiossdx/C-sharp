@@ -1,0 +1,11 @@
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\obj\Debug\netcoreapp3.0\intervalo.csprojAssemblyReference.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\obj\Debug\netcoreapp3.0\intervalo.AssemblyInfoInputs.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\obj\Debug\netcoreapp3.0\intervalo.AssemblyInfo.cs
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\bin\Debug\netcoreapp3.0\intervalo.exe
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\bin\Debug\netcoreapp3.0\intervalo.deps.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\bin\Debug\netcoreapp3.0\intervalo.runtimeconfig.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\bin\Debug\netcoreapp3.0\intervalo.runtimeconfig.dev.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\bin\Debug\netcoreapp3.0\intervalo.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\bin\Debug\netcoreapp3.0\intervalo.pdb
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\obj\Debug\netcoreapp3.0\intervalo.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\intervalo\obj\Debug\netcoreapp3.0\intervalo.pdb

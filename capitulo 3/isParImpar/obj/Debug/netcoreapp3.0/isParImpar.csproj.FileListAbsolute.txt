@@ -1,0 +1,11 @@
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\bin\Debug\netcoreapp3.0\isParImpar.exe
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\bin\Debug\netcoreapp3.0\isParImpar.deps.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\bin\Debug\netcoreapp3.0\isParImpar.runtimeconfig.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\bin\Debug\netcoreapp3.0\isParImpar.runtimeconfig.dev.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\bin\Debug\netcoreapp3.0\isParImpar.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\bin\Debug\netcoreapp3.0\isParImpar.pdb
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\obj\Debug\netcoreapp3.0\isParImpar.csprojAssemblyReference.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\obj\Debug\netcoreapp3.0\isParImpar.AssemblyInfoInputs.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\obj\Debug\netcoreapp3.0\isParImpar.AssemblyInfo.cs
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\obj\Debug\netcoreapp3.0\isParImpar.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isParImpar\obj\Debug\netcoreapp3.0\isParImpar.pdb

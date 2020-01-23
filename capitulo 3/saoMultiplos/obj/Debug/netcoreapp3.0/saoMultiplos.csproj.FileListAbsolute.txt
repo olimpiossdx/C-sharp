@@ -1,0 +1,11 @@
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\obj\Debug\netcoreapp3.0\saoMultiplos.csprojAssemblyReference.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\obj\Debug\netcoreapp3.0\saoMultiplos.AssemblyInfoInputs.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\obj\Debug\netcoreapp3.0\saoMultiplos.AssemblyInfo.cs
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\bin\Debug\netcoreapp3.0\saoMultiplos.exe
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\bin\Debug\netcoreapp3.0\saoMultiplos.deps.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\bin\Debug\netcoreapp3.0\saoMultiplos.runtimeconfig.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\bin\Debug\netcoreapp3.0\saoMultiplos.runtimeconfig.dev.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\bin\Debug\netcoreapp3.0\saoMultiplos.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\bin\Debug\netcoreapp3.0\saoMultiplos.pdb
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\obj\Debug\netcoreapp3.0\saoMultiplos.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\saoMultiplos\obj\Debug\netcoreapp3.0\saoMultiplos.pdb

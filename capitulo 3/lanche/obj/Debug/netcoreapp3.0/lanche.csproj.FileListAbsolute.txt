@@ -1,0 +1,11 @@
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\obj\Debug\netcoreapp3.0\lanche.csprojAssemblyReference.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\obj\Debug\netcoreapp3.0\lanche.AssemblyInfoInputs.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\obj\Debug\netcoreapp3.0\lanche.AssemblyInfo.cs
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\bin\Debug\netcoreapp3.0\lanche.exe
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\bin\Debug\netcoreapp3.0\lanche.deps.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\bin\Debug\netcoreapp3.0\lanche.runtimeconfig.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\bin\Debug\netcoreapp3.0\lanche.runtimeconfig.dev.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\bin\Debug\netcoreapp3.0\lanche.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\bin\Debug\netcoreapp3.0\lanche.pdb
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\obj\Debug\netcoreapp3.0\lanche.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\lanche\obj\Debug\netcoreapp3.0\lanche.pdb

@@ -1,0 +1,11 @@
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\bin\Debug\netcoreapp3.0\area.exe
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\bin\Debug\netcoreapp3.0\area.deps.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\bin\Debug\netcoreapp3.0\area.runtimeconfig.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\bin\Debug\netcoreapp3.0\area.runtimeconfig.dev.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\bin\Debug\netcoreapp3.0\area.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\bin\Debug\netcoreapp3.0\area.pdb
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\obj\Debug\netcoreapp3.0\area.csprojAssemblyReference.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\obj\Debug\netcoreapp3.0\area.AssemblyInfoInputs.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\obj\Debug\netcoreapp3.0\area.AssemblyInfo.cs
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\obj\Debug\netcoreapp3.0\area.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\area\obj\Debug\netcoreapp3.0\area.pdb

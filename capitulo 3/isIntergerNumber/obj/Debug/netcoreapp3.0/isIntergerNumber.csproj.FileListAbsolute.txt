@@ -1,0 +1,11 @@
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\obj\Debug\netcoreapp3.0\isIntergerNumber.csprojAssemblyReference.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\obj\Debug\netcoreapp3.0\isIntergerNumber.AssemblyInfoInputs.cache
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\obj\Debug\netcoreapp3.0\isIntergerNumber.AssemblyInfo.cs
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\bin\Debug\netcoreapp3.0\isIntergerNumber.exe
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\bin\Debug\netcoreapp3.0\isIntergerNumber.deps.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\bin\Debug\netcoreapp3.0\isIntergerNumber.runtimeconfig.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\bin\Debug\netcoreapp3.0\isIntergerNumber.runtimeconfig.dev.json
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\bin\Debug\netcoreapp3.0\isIntergerNumber.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\bin\Debug\netcoreapp3.0\isIntergerNumber.pdb
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\obj\Debug\netcoreapp3.0\isIntergerNumber.dll
+C:\Users\Olimpio\Documents\cursos\C-\capitulo 3\isIntergerNumber\obj\Debug\netcoreapp3.0\isIntergerNumber.pdb
