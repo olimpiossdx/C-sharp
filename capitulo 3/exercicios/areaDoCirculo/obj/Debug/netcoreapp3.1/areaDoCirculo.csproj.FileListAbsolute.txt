@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/obj/Debug/netcoreapp3.1/areaDoCirculo.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/obj/Debug/netcoreapp3.1/areaDoCirculo.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/obj/Debug/netcoreapp3.1/areaDoCirculo.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/bin/Debug/netcoreapp3.1/areaDoCirculo
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/bin/Debug/netcoreapp3.1/areaDoCirculo.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/bin/Debug/netcoreapp3.1/areaDoCirculo.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/bin/Debug/netcoreapp3.1/areaDoCirculo.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/bin/Debug/netcoreapp3.1/areaDoCirculo.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/bin/Debug/netcoreapp3.1/areaDoCirculo.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/obj/Debug/netcoreapp3.1/areaDoCirculo.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/areaDoCirculo/obj/Debug/netcoreapp3.1/areaDoCirculo.pdb

@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/obj/Debug/netcoreapp3.1/salario.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/obj/Debug/netcoreapp3.1/salario.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/obj/Debug/netcoreapp3.1/salario.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/bin/Debug/netcoreapp3.1/salario
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/bin/Debug/netcoreapp3.1/salario.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/bin/Debug/netcoreapp3.1/salario.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/bin/Debug/netcoreapp3.1/salario.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/bin/Debug/netcoreapp3.1/salario.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/bin/Debug/netcoreapp3.1/salario.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/obj/Debug/netcoreapp3.1/salario.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/salario/obj/Debug/netcoreapp3.1/salario.pdb

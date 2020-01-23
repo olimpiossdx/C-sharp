@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/obj/Debug/netcoreapp3.1/diferenca.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/obj/Debug/netcoreapp3.1/diferenca.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/obj/Debug/netcoreapp3.1/diferenca.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/bin/Debug/netcoreapp3.1/diferenca
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/bin/Debug/netcoreapp3.1/diferenca.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/bin/Debug/netcoreapp3.1/diferenca.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/bin/Debug/netcoreapp3.1/diferenca.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/bin/Debug/netcoreapp3.1/diferenca.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/bin/Debug/netcoreapp3.1/diferenca.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/obj/Debug/netcoreapp3.1/diferenca.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/diferenca/obj/Debug/netcoreapp3.1/diferenca.pdb

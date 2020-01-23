@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/somaSimples.csproj": {}
+  },
+  "projects": {
+    "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/somaSimples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/somaSimples.csproj",
+        "projectName": "somaSimples",
+        "projectPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/somaSimples.csproj",
+        "packagesPath": "/home/olimpio/.nuget/packages/",
+        "outputPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/olimpio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

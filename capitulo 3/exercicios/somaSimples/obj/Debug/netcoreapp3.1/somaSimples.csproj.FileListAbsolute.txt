@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/bin/Debug/netcoreapp3.1/somaSimples
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/bin/Debug/netcoreapp3.1/somaSimples.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/bin/Debug/netcoreapp3.1/somaSimples.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/bin/Debug/netcoreapp3.1/somaSimples.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/bin/Debug/netcoreapp3.1/somaSimples.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/bin/Debug/netcoreapp3.1/somaSimples.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/obj/Debug/netcoreapp3.1/somaSimples.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/obj/Debug/netcoreapp3.1/somaSimples.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/obj/Debug/netcoreapp3.1/somaSimples.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/obj/Debug/netcoreapp3.1/somaSimples.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/somaSimples/obj/Debug/netcoreapp3.1/somaSimples.pdb
