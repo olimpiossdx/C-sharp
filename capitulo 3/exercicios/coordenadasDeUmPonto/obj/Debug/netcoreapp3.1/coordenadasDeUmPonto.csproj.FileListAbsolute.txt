@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/bin/Debug/netcoreapp3.1/coordenadasDeUmPonto
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/bin/Debug/netcoreapp3.1/coordenadasDeUmPonto.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/bin/Debug/netcoreapp3.1/coordenadasDeUmPonto.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/bin/Debug/netcoreapp3.1/coordenadasDeUmPonto.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/bin/Debug/netcoreapp3.1/coordenadasDeUmPonto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/bin/Debug/netcoreapp3.1/coordenadasDeUmPonto.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/obj/Debug/netcoreapp3.1/coordenadasDeUmPonto.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/obj/Debug/netcoreapp3.1/coordenadasDeUmPonto.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/obj/Debug/netcoreapp3.1/coordenadasDeUmPonto.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/obj/Debug/netcoreapp3.1/coordenadasDeUmPonto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/coordenadasDeUmPonto/obj/Debug/netcoreapp3.1/coordenadasDeUmPonto.pdb

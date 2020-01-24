@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/obj/Debug/netcoreapp3.1/senhaFixa.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/obj/Debug/netcoreapp3.1/senhaFixa.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/obj/Debug/netcoreapp3.1/senhaFixa.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/bin/Debug/netcoreapp3.1/senhaFixa
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/bin/Debug/netcoreapp3.1/senhaFixa.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/bin/Debug/netcoreapp3.1/senhaFixa.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/bin/Debug/netcoreapp3.1/senhaFixa.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/bin/Debug/netcoreapp3.1/senhaFixa.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/bin/Debug/netcoreapp3.1/senhaFixa.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/obj/Debug/netcoreapp3.1/senhaFixa.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/senhaFixa/obj/Debug/netcoreapp3.1/senhaFixa.pdb
