@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/obj/Debug/netcoreapp3.1/impostoDeRenda.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/obj/Debug/netcoreapp3.1/impostoDeRenda.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/obj/Debug/netcoreapp3.1/impostoDeRenda.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/bin/Debug/netcoreapp3.1/impostoDeRenda
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/bin/Debug/netcoreapp3.1/impostoDeRenda.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/bin/Debug/netcoreapp3.1/impostoDeRenda.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/bin/Debug/netcoreapp3.1/impostoDeRenda.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/bin/Debug/netcoreapp3.1/impostoDeRenda.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/bin/Debug/netcoreapp3.1/impostoDeRenda.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/obj/Debug/netcoreapp3.1/impostoDeRenda.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/impostoDeRenda/obj/Debug/netcoreapp3.1/impostoDeRenda.pdb
