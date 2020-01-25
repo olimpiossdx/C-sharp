@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/bin/Debug/netcoreapp3.1/calculoSimples
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/bin/Debug/netcoreapp3.1/calculoSimples.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/bin/Debug/netcoreapp3.1/calculoSimples.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/bin/Debug/netcoreapp3.1/calculoSimples.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/bin/Debug/netcoreapp3.1/calculoSimples.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/bin/Debug/netcoreapp3.1/calculoSimples.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/obj/Debug/netcoreapp3.1/calculoSimples.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/obj/Debug/netcoreapp3.1/calculoSimples.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/obj/Debug/netcoreapp3.1/calculoSimples.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/obj/Debug/netcoreapp3.1/calculoSimples.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/calculoSimples/obj/Debug/netcoreapp3.1/calculoSimples.pdb

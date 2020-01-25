@@ -50,7 +50,6 @@ namespace intervalofechado {
 
       Console.WriteLine ($"{ina} in");
       Console.WriteLine ($"{outb} out");
-
     }
   }
 }

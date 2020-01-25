@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/bin/Debug/netcoreapp3.1/quadradoeaocubo
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/bin/Debug/netcoreapp3.1/quadradoeaocubo.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/bin/Debug/netcoreapp3.1/quadradoeaocubo.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/bin/Debug/netcoreapp3.1/quadradoeaocubo.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/bin/Debug/netcoreapp3.1/quadradoeaocubo.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/bin/Debug/netcoreapp3.1/quadradoeaocubo.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/obj/Debug/netcoreapp3.1/quadradoeaocubo.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/obj/Debug/netcoreapp3.1/quadradoeaocubo.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/obj/Debug/netcoreapp3.1/quadradoeaocubo.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/obj/Debug/netcoreapp3.1/quadradoeaocubo.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadradoeaocubo/obj/Debug/netcoreapp3.1/quadradoeaocubo.pdb

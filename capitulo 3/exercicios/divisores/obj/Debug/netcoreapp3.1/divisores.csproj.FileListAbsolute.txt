@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/bin/Debug/netcoreapp3.1/divisores
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/bin/Debug/netcoreapp3.1/divisores.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/bin/Debug/netcoreapp3.1/divisores.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/bin/Debug/netcoreapp3.1/divisores.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/bin/Debug/netcoreapp3.1/divisores.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/bin/Debug/netcoreapp3.1/divisores.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/obj/Debug/netcoreapp3.1/divisores.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/obj/Debug/netcoreapp3.1/divisores.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/obj/Debug/netcoreapp3.1/divisores.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/obj/Debug/netcoreapp3.1/divisores.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/divisores/obj/Debug/netcoreapp3.1/divisores.pdb

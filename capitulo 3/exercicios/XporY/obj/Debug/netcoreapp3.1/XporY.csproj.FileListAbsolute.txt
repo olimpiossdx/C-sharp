@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/obj/Debug/netcoreapp3.1/XporY.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/obj/Debug/netcoreapp3.1/XporY.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/obj/Debug/netcoreapp3.1/XporY.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/bin/Debug/netcoreapp3.1/XporY
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/bin/Debug/netcoreapp3.1/XporY.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/bin/Debug/netcoreapp3.1/XporY.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/bin/Debug/netcoreapp3.1/XporY.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/bin/Debug/netcoreapp3.1/XporY.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/bin/Debug/netcoreapp3.1/XporY.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/obj/Debug/netcoreapp3.1/XporY.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/XporY/obj/Debug/netcoreapp3.1/XporY.pdb

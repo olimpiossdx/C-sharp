@@ -32,19 +32,23 @@ VALOR A PAGAR: R$ 30.20
 */
 
 namespace calculoSimples {
-    class Program {
-        static void Main (string[] args) {
+  class Program {
+    static void Main (string[] args) {
+      short quantidade;
+      double valor, resultado;
 
-            short peca1, peca2;
-            double valor1, valor2;
-            string linha1, linha2;
+      string[] input = Console.ReadLine ().Split (' ');
+      string[] input2 = Console.ReadLine ().Split (' ');
 
-            linha1 = Console.ReadLine ();
-            linha2 = Console.ReadLine ();
-            string[] vetLinha1 = linha1.Split (' ');
-            string[] vetLinha2 = linha2.Split (' ');
-            
-            Console.WriteLine ($"VALOR A PAGAR: R$ {15.50}");
-        }
+      quantidade = short.Parse (input[1]);
+      valor = double.Parse (input[2]);
+      resultado = quantidade * valor;
+
+      quantidade = short.Parse (input2[1]);
+      valor = double.Parse (input2[2]);
+      resultado += quantidade * valor;
+
+      Console.WriteLine ($"VALOR A PAGAR: R$ {resultado:F2}");
     }
+  }
 }
