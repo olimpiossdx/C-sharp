@@ -33,7 +33,28 @@ segundo
 namespace quadrante {
   class Program {
     static void Main (string[] args) {
-      
+      string[] input;
+      short x, y;
+      do {
+        input = Console.ReadLine ().Split (' ');
+
+        x = short.Parse (input[0]);
+        y = short.Parse (input[1]);
+
+        if (x > 0 && y > 0)
+          Console.WriteLine ("primeiro");
+
+        else if (x < 0 && y > 0)
+          Console.WriteLine ("segundo");
+
+        else if (x < 0 && y < 0)
+          Console.WriteLine ("terceiro");
+
+        else if (x > 0 && y < 0)
+          Console.WriteLine ("quarto");
+
+      } while (x != 0 && y != 0);
+
     }
   }
 }
