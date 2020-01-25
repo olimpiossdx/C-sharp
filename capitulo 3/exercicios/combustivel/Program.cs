@@ -24,19 +24,19 @@ Diesel: 0
 
 */
 namespace combustivel {
-    class Program {
-        static void Main (string[] args) {
-            short alcool, gasolina, diesel;
-            gasolina = alcool = diesel = 0;
-            string opacao = Console.ReadLine ();
-            while (!opacao.Equals ("4")) {
+  class Program {
+    static void Main (string[] args) {
+      short alcool, gasolina, diesel;
+      gasolina = alcool = diesel = 0;
+      string opacao = Console.ReadLine ();
+      while (!opacao.Equals ("4")) {
 
-                if (opacao.Equals ("1")) alcool += 1;
-                else if (opacao.Equals ("2")) gasolina += 1;
-                else if (opacao.Equals ("3")) diesel += 1;
-                opacao = Console.ReadLine ();
-            }
-            Console.WriteLine ($"Muito Obrigado\nAlcool: {alcool}\nGasolina: {gasolina}\nDiesel: {diesel}");
-        }
+        if (opacao.Equals ("1")) alcool += 1;
+        else if (opacao.Equals ("2")) gasolina += 1;
+        else if (opacao.Equals ("3")) diesel += 1;
+        opacao = Console.ReadLine ();
+      }
+      Console.WriteLine ($"MUITO OBRIGADO\nAlcool: {alcool}\nGasolina: {gasolina}\nDiesel: {diesel}");
     }
+  }
 }

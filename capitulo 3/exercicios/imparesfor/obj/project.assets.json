@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "/home/olimpio/.nuget/packages/": {}
@@ -13,23 +13,23 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/intervalo.csproj",
-      "projectName": "intervalo",
-      "projectPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/intervalo.csproj",
+      "projectUniqueName": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/imparesfor.csproj",
+      "projectName": "imparesfor",
+      "projectPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/imparesfor.csproj",
       "packagesPath": "/home/olimpio/.nuget/packages/",
-      "outputPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/obj/",
+      "outputPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/olimpio/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -40,7 +40,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
@@ -51,20 +51,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.0.1, 3.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[3.0.2, 3.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.0.0, 3.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

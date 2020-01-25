@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/bin/Debug/netcoreapp3.1/intervalofechado
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/bin/Debug/netcoreapp3.1/intervalofechado.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/bin/Debug/netcoreapp3.1/intervalofechado.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/bin/Debug/netcoreapp3.1/intervalofechado.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/bin/Debug/netcoreapp3.1/intervalofechado.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/bin/Debug/netcoreapp3.1/intervalofechado.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/obj/Debug/netcoreapp3.1/intervalofechado.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/obj/Debug/netcoreapp3.1/intervalofechado.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/obj/Debug/netcoreapp3.1/intervalofechado.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/obj/Debug/netcoreapp3.1/intervalofechado.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalofechado/obj/Debug/netcoreapp3.1/intervalofechado.pdb
