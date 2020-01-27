@@ -19,36 +19,22 @@ Saída
 A saída deve ser uma mensagem conforme exemplo abaixo.
 
 */
-namespace intervalo
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      double intervalo = double.Parse(Console.ReadLine());
+namespace intervalo {
+  class Program {
+    static void Main (string[] args) {
+      double intervalo = double.Parse (Console.ReadLine ());
 
-      if (intervalo >= 0.0 && intervalo <= 25.0)
-      {
-        Console.WriteLine("Intervalo [0,25]");
+      if (intervalo >= 0.0 && intervalo <= 25.0) {
+        Console.WriteLine ("Intervalo [0,25]");
+      } else if (intervalo > 25.0 && intervalo <= 50.0) {
+        Console.WriteLine ("Intervalo (25,50]");
+      } else if (intervalo > 50.0 && intervalo <= 75.0) {
+        Console.WriteLine ("Intervalo (50,75]");
+      } else if (intervalo > 75.0 && intervalo <= 100.0) {
+        Console.WriteLine ("Intervalo (75,100]");
+      } else {
+        Console.WriteLine ("Fora de intervalo");
       }
-      else if (intervalo > 25.0 && intervalo <= 50.0)
-      {
-        Console.WriteLine("Intervalo (25,50]");
-      }
-      else if (intervalo > 50.0 && intervalo <= 75.0)
-      {
-        Console.WriteLine("Intervalo (50,75]");
-      }
-      else if (intervalo > 75.0 && intervalo <= 100.0)
-      {
-        Console.WriteLine("Intervalo (75,100]");
-      }
-      else
-      {
-        Console.WriteLine("Fora de intervalo");
-      }
-
-
     }
   }
 }

@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/obj/Debug/netcoreapp3.1/combustivel.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/obj/Debug/netcoreapp3.1/combustivel.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/obj/Debug/netcoreapp3.1/combustivel.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/bin/Debug/netcoreapp3.1/combustivel
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/bin/Debug/netcoreapp3.1/combustivel.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/bin/Debug/netcoreapp3.1/combustivel.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/bin/Debug/netcoreapp3.1/combustivel.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/bin/Debug/netcoreapp3.1/combustivel.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/bin/Debug/netcoreapp3.1/combustivel.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/obj/Debug/netcoreapp3.1/combustivel.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/combustivel/obj/Debug/netcoreapp3.1/combustivel.pdb

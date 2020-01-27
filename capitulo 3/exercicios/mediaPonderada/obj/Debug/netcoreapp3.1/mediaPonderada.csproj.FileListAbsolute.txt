@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/bin/Debug/netcoreapp3.1/mediaPonderada
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/bin/Debug/netcoreapp3.1/mediaPonderada.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/bin/Debug/netcoreapp3.1/mediaPonderada.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/bin/Debug/netcoreapp3.1/mediaPonderada.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/bin/Debug/netcoreapp3.1/mediaPonderada.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/bin/Debug/netcoreapp3.1/mediaPonderada.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/obj/Debug/netcoreapp3.1/mediaPonderada.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/obj/Debug/netcoreapp3.1/mediaPonderada.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/obj/Debug/netcoreapp3.1/mediaPonderada.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/obj/Debug/netcoreapp3.1/mediaPonderada.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/mediaPonderada/obj/Debug/netcoreapp3.1/mediaPonderada.pdb

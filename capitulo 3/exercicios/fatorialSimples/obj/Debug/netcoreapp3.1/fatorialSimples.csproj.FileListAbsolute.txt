@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/bin/Debug/netcoreapp3.1/fatorialSimples
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/bin/Debug/netcoreapp3.1/fatorialSimples.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/bin/Debug/netcoreapp3.1/fatorialSimples.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/bin/Debug/netcoreapp3.1/fatorialSimples.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/bin/Debug/netcoreapp3.1/fatorialSimples.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/bin/Debug/netcoreapp3.1/fatorialSimples.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/obj/Debug/netcoreapp3.1/fatorialSimples.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/obj/Debug/netcoreapp3.1/fatorialSimples.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/obj/Debug/netcoreapp3.1/fatorialSimples.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/obj/Debug/netcoreapp3.1/fatorialSimples.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/fatorialSimples/obj/Debug/netcoreapp3.1/fatorialSimples.pdb

@@ -8,32 +8,25 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Olimpio\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/olimpio/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olimpio\\Documents\\cursos\\C-\\capitulo 3\\intervalo\\intervalo.csproj",
+      "projectUniqueName": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/intervalo.csproj",
       "projectName": "intervalo",
-      "projectPath": "C:\\Users\\Olimpio\\Documents\\cursos\\C-\\capitulo 3\\intervalo\\intervalo.csproj",
-      "packagesPath": "C:\\Users\\Olimpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olimpio\\Documents\\cursos\\C-\\capitulo 3\\intervalo\\obj\\",
+      "projectPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/intervalo.csproj",
+      "packagesPath": "/home/olimpio/.nuget/packages/",
+      "outputPath": "/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Olimpio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/olimpio/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/MebKymQLg4gcx2W8cfLn2dAgTsFPlVX35MJO8nYiJIdpVTJLTO/api": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
@@ -58,12 +51,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.0.2, 3.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

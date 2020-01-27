@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/bin/Debug/netcoreapp3.1/quadrante
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/bin/Debug/netcoreapp3.1/quadrante.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/bin/Debug/netcoreapp3.1/quadrante.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/bin/Debug/netcoreapp3.1/quadrante.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/bin/Debug/netcoreapp3.1/quadrante.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/bin/Debug/netcoreapp3.1/quadrante.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/obj/Debug/netcoreapp3.1/quadrante.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/obj/Debug/netcoreapp3.1/quadrante.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/obj/Debug/netcoreapp3.1/quadrante.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/obj/Debug/netcoreapp3.1/quadrante.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/quadrante/obj/Debug/netcoreapp3.1/quadrante.pdb

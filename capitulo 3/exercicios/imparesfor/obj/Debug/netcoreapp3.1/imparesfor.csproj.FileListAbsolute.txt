@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/obj/Debug/netcoreapp3.1/imparesfor.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/obj/Debug/netcoreapp3.1/imparesfor.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/obj/Debug/netcoreapp3.1/imparesfor.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/bin/Debug/netcoreapp3.1/imparesfor
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/bin/Debug/netcoreapp3.1/imparesfor.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/bin/Debug/netcoreapp3.1/imparesfor.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/bin/Debug/netcoreapp3.1/imparesfor.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/bin/Debug/netcoreapp3.1/imparesfor.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/bin/Debug/netcoreapp3.1/imparesfor.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/obj/Debug/netcoreapp3.1/imparesfor.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/imparesfor/obj/Debug/netcoreapp3.1/imparesfor.pdb
