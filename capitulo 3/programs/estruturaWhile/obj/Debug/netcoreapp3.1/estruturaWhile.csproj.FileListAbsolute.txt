@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/bin/Debug/netcoreapp3.1/estruturaWhile
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/bin/Debug/netcoreapp3.1/estruturaWhile.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/bin/Debug/netcoreapp3.1/estruturaWhile.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/bin/Debug/netcoreapp3.1/estruturaWhile.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/bin/Debug/netcoreapp3.1/estruturaWhile.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/bin/Debug/netcoreapp3.1/estruturaWhile.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/obj/Debug/netcoreapp3.1/estruturaWhile.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/obj/Debug/netcoreapp3.1/estruturaWhile.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/obj/Debug/netcoreapp3.1/estruturaWhile.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/obj/Debug/netcoreapp3.1/estruturaWhile.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaWhile/obj/Debug/netcoreapp3.1/estruturaWhile.pdb
