@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/obj/Debug/netcoreapp3.1/sintaxeFuncao.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/obj/Debug/netcoreapp3.1/sintaxeFuncao.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/obj/Debug/netcoreapp3.1/sintaxeFuncao.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/bin/Debug/netcoreapp3.1/sintaxeFuncao
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/bin/Debug/netcoreapp3.1/sintaxeFuncao.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/bin/Debug/netcoreapp3.1/sintaxeFuncao.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/bin/Debug/netcoreapp3.1/sintaxeFuncao.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/bin/Debug/netcoreapp3.1/sintaxeFuncao.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/bin/Debug/netcoreapp3.1/sintaxeFuncao.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/obj/Debug/netcoreapp3.1/sintaxeFuncao.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/sintaxeFuncao/obj/Debug/netcoreapp3.1/sintaxeFuncao.pdb
