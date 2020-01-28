@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/bin/Debug/netcoreapp3.1/estruturaCondicionalIfElse
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/bin/Debug/netcoreapp3.1/estruturaCondicionalIfElse.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/bin/Debug/netcoreapp3.1/estruturaCondicionalIfElse.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/bin/Debug/netcoreapp3.1/estruturaCondicionalIfElse.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/bin/Debug/netcoreapp3.1/estruturaCondicionalIfElse.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/bin/Debug/netcoreapp3.1/estruturaCondicionalIfElse.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/obj/Debug/netcoreapp3.1/estruturaCondicionalIfElse.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/obj/Debug/netcoreapp3.1/estruturaCondicionalIfElse.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/obj/Debug/netcoreapp3.1/estruturaCondicionalIfElse.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/obj/Debug/netcoreapp3.1/estruturaCondicionalIfElse.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaCondicionalIfElse/obj/Debug/netcoreapp3.1/estruturaCondicionalIfElse.pdb
