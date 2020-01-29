@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploComOrientacaoObjeto
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploComOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploComOrientacaoObjeto.pdb

@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/bin/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 4/programs/exemploSemOrientacaoObjeto/obj/Debug/netcoreapp3.1/exemploSemOrientacaoObjeto.pdb
