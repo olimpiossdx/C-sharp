@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/bin/Debug/netcoreapp3.1/estruturaFOR
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/bin/Debug/netcoreapp3.1/estruturaFOR.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/bin/Debug/netcoreapp3.1/estruturaFOR.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/bin/Debug/netcoreapp3.1/estruturaFOR.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/bin/Debug/netcoreapp3.1/estruturaFOR.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/bin/Debug/netcoreapp3.1/estruturaFOR.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/obj/Debug/netcoreapp3.1/estruturaFOR.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/obj/Debug/netcoreapp3.1/estruturaFOR.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/obj/Debug/netcoreapp3.1/estruturaFOR.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/obj/Debug/netcoreapp3.1/estruturaFOR.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 3/programs/estruturaFOR/obj/Debug/netcoreapp3.1/estruturaFOR.pdb
