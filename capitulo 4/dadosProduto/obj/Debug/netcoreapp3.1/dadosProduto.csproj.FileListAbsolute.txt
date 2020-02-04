@@ -1,0 +1,11 @@
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/bin/Debug/netcoreapp3.1/dadosProduto
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/bin/Debug/netcoreapp3.1/dadosProduto.deps.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/bin/Debug/netcoreapp3.1/dadosProduto.runtimeconfig.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/bin/Debug/netcoreapp3.1/dadosProduto.runtimeconfig.dev.json
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/bin/Debug/netcoreapp3.1/dadosProduto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/bin/Debug/netcoreapp3.1/dadosProduto.pdb
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/obj/Debug/netcoreapp3.1/dadosProduto.csprojAssemblyReference.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/obj/Debug/netcoreapp3.1/dadosProduto.AssemblyInfoInputs.cache
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/obj/Debug/netcoreapp3.1/dadosProduto.AssemblyInfo.cs
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/obj/Debug/netcoreapp3.1/dadosProduto.dll
+/home/olimpio/Documentos/estudos/C-/capitulo 4/dadosProduto/obj/Debug/netcoreapp3.1/dadosProduto.pdb
