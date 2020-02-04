@@ -4,7 +4,8 @@ namespace exemploComOrientacaoObjeto {
   class Program {
     static void Main (string[] args) {
       Triangulo x, y;
-      double p, areaX, areaY;
+      double areaX, areaY;
+      // double p, areaX, areaY;
       x = new Triangulo ();
       y = new Triangulo ();
 
@@ -18,12 +19,14 @@ namespace exemploComOrientacaoObjeto {
       y.B = double.Parse (Console.ReadLine ());
       y.C = double.Parse (Console.ReadLine ());
 
-      p = (x.A + x.B + x.C) / 2;
-      areaX = Math.Sqrt (p * (p - x.A) * (p - x.B) * (p - x.C));
+      // p = (x.A + x.B + x.C) / 2;
+      //areaX = Math.Sqrt (p * (p - x.A) * (p - x.B) * (p - x.C));
+      areaX = x.Area();
 
-      p = (y.A + y.B + y.C) / 2;
-      areaY = Math.Sqrt (p * (p - y.A) * (p - y.B) * (p - y.C));
-      
+      // p = (y.A + y.B + y.C) / 2;
+      // areaY = Math.Sqrt (p * (p - y.A) * (p - y.B) * (p - y.C));
+      areaY = y.Area();
+
       Console.WriteLine ($"Area de X = {areaX:F4}");
       Console.WriteLine ($"Area de Y = {areaY:F4}");
 
