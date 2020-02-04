@@ -30,6 +30,8 @@ namespace primitivos {
       // atalho para escrever console.writeLine cw
       Console.WriteLine ("sbyte " + x);
       Console.WriteLine ("byte " + n1);
+      Console.WriteLine ("nome " + nome);
+      Console.WriteLine ("obj1 " + obj1);
       System.Console.WriteLine ("int " + n2);
       System.Console.WriteLine ("long " + n3);
       System.Console.WriteLine ("bool " + uia);
