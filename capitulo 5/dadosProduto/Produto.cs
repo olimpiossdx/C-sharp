@@ -3,17 +3,17 @@ using System;
 namespace dadosProduto {
   class Produto {
     private string _nome;
-    private double _preco;
-    private double _quantidade;
+    private double Preco { get; private set; }
+    private double Quantidade { get; private set; }
     public Produto () {
       Quantidade = 0;
     }
     public Produto (string nome, double preco) : this () {
       _nome = nome;
-      _preco = preco;
+      Preco = preco;
     }
     public Produto (string nome, double preco, int quantidade) : this (nome, preco) {
-      _quantidade = quantidade;
+      Quantidade = quantidade;
     }
 
     public string Nome {
@@ -24,26 +24,17 @@ namespace dadosProduto {
         }
       }
     }
-
-    public string Preco {
-      get { return _preco; }
-    }
-
-    public int Quantidade {
-      get { return _quantidade; }
-    }
-
     public double ValorTotalEmEstoque () {
-      return _quantidade * Preco;
+      return Quantidade * Preco;
     }
     public void AdicionarProdutos (int quantidade) {
-      _quantidade += quantidade;
+      Quantidade += quantidade;
     }
     public void RemoverProdutos (int quantidade) {
-      _quantidade -= quantidade;
+      Quantidade -= quantidade;
     }
     public override string ToString () {
-      return $"{_nome}, $ {_preco:F2}, {_quantidade} unidade(s), Total: $ {ValorTotalEmEstoque():F2}";
+      return $"{_nome}, $ {Preco:F2}, {Quantidade} unidade(s), Total: $ {ValorTotalEmEstoque():F2}";
     }
 
   }
