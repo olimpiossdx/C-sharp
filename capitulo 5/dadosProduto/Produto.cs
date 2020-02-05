@@ -1,5 +1,14 @@
 using System;
 
+//sugestão de implementação
+/*
+ * Atributos privados
+ * Porpriedades autoimplementadas
+ * Construtores
+ * Propriedades customizadas
+ * Outros métodos da classe
+ */
+
 namespace dadosProduto {
   class Produto {
     private string _nome;
