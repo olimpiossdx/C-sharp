@@ -16,20 +16,21 @@ namespace dadosProduto {
       _quantidade = quantidade;
     }
 
-    public GetNome () {
-      return _nome;
-    }
-    public SetNome (string nome) {
-      if (nome != null && nome.Length > 3) {
-        _nome = nome;
+    public string Nome {
+      get { return _nome; }
+      set {
+        if (value != null && value.Length > 3) {
+          _nome = value;
+        }
       }
     }
-    public GetPreco () {
-      return _preco;
+
+    public string Preco {
+      get { return _preco; }
     }
 
-    public GetQuantidade () {
-      return _quantidade;
+    public int Quantidade {
+      get { return _quantidade; }
     }
 
     public double ValorTotalEmEstoque () {

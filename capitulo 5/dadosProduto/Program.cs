@@ -19,7 +19,8 @@ namespace dadosProduto {
       Console.Write ("Quantidade no estoque: ");
       quantidade = int.Parse (Console.ReadLine ());
 
-      p = new Produto();
+      p = new Produto ();
+      p.Nome = "TV 4K";
       p1 = new Produto ();
       p2 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 };
 
