@@ -22,7 +22,7 @@ namespace dadosProduto {
       p = new Produto ();
       p.Nome = "TV 4K";
       p1 = new Produto ();
-      p2 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 };
+      // p2 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 };
 
       Console.WriteLine ($"dados do Produto: {p.ToString()}");
 

@@ -12,8 +12,8 @@ using System;
 namespace dadosProduto {
   class Produto {
     private string _nome;
-    private double Preco { get; private set; }
-    private double Quantidade { get; private set; }
+    private double Preco { get; set; }
+    private double Quantidade { get; set; }
     public Produto () {
       Quantidade = 0;
     }
