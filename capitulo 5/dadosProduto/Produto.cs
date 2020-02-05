@@ -5,29 +5,10 @@ namespace dadosProduto {
     public string Nome;
     public double Preco;
     public double Quantidade;
-
-    public Produto () {
-
-    }
-    public Produto (string nome, double preco, double quantidade) {
-      Nome = nome;
-      Preco = preco;
-      Quantidade = quantidade;
-    }
-    public Produto (string nome, double preco, double quantidade) {
-      Nome = nome;
-      Preco = preco;
-      Quantidade = quantidade;
-    }
+    public Produto () { }
     public Produto (string nome, double preco) {
       Nome = nome;
       Preco = preco;
-      Quantidade = 0;
-    }
-    public Produto (string nome, double preco, double quantidade) {
-      Nome = nome;
-      Preco = preco;
-      Quantidade = quantidade;
     }
 
     public double ValorTotalEmEstoque () {

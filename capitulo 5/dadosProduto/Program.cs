@@ -6,7 +6,7 @@ namespace dadosProduto {
       string nome;
       double preco;
       int quantidade;
-      Produto p;
+      Produto p, p1, p2;
 
       Console.WriteLine ("Entre os dados do produto");
 
@@ -18,8 +18,10 @@ namespace dadosProduto {
 
       Console.Write ("Quantidade no estoque: ");
       quantidade = int.Parse (Console.ReadLine ());
-      
-      p = new Produto (nome, preco, quantidade);
+
+      p = new Produto();
+      p1 = new Produto ();
+      p2 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 };
 
       Console.WriteLine ($"dados do Produto: {p.ToString()}");
 
