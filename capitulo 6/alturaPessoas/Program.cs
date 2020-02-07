@@ -17,7 +17,7 @@ namespace alturaPessoas {
       for (int i = 0; i < n; i++)
         sum += vector[i];
 
-      Console.WriteLine ($"AVERAGE HEIGHT: {sum:f2}");
+      Console.WriteLine ($"AVERAGE HEIGHT: {sum/n:f2}");
 
     }
   }
