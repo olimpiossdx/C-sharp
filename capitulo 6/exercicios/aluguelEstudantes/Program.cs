@@ -45,12 +45,11 @@ namespace aluguelEstudantes {
       short n = 10, numAlugados;
       Estudante estudante;
       Aluguel[] alugueis = new Aluguel[n];
-      for (int i = 0; i < n; i++)
-        alugueis[i] = new Aluguel ();
+
       Console.Write ("Quantos quartos serão alugados? ");
       numAlugados = short.Parse (Console.ReadLine ());
 
-      for (int i = 0; i < numAlugados; i++) {
+      for (short i = 0; i < numAlugados; i++) {
         string nome, email;
         short quarto;
 
@@ -67,8 +66,8 @@ namespace aluguelEstudantes {
       }
 
       Console.WriteLine ("Quartos ocupados:");
-      for (int i = 0; i < n; i++)
-        if (alugueis[i]._quarto != -1)
+      for (short i = 0; i < n; i++)
+        if (alugueis[i] != null)
           Console.WriteLine ($"{alugueis[i].ToString()}");
     }
   }
