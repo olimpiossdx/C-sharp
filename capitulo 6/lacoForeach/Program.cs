@@ -8,6 +8,11 @@ namespace lacoForeach {
       foreach (string obj in vect)
         Console.WriteLine (obj);
 
+      //começo de interação por i, iniciando pela posição 0 até o tamanho de   vect
+      for (int i = 0; i < vect.Length; i++) {
+        Console.WriteLine (vect[i]);
+      }
+
     }
   }
 }
