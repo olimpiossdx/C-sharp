@@ -21,6 +21,7 @@ namespace matrizQuadrda {
       }
 
       Console.WriteLine ("Main diagonal:");
+
       for (int i = 0; i < n; i++)
         Console.Write ($" {mat[i,i]}");
 
