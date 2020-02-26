@@ -15,7 +15,7 @@ namespace Timespan {
 			Console.WriteLine ($"TimeSpan: {t1}");
 			Console.WriteLine ($"TimeSpan.Ticks:  {t1.Ticks}");
 
-			//construtures
+			//construtores
 			TimeSpan t2 = new TimeSpan ();
 			TimeSpan t3 = new TimeSpan (9000000L);
 			TimeSpan t4 = new TimeSpan (2, 11, 21);
