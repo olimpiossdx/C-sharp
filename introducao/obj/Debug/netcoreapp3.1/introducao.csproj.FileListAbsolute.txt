@@ -9,3 +9,14 @@
 /home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.AssemblyInfo.cs
 /home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.dll
 /home/olimpio/Documentos/estudos/c#/introducao/obj/Debug/netcoreapp3.1/introducao.pdb
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/bin/Debug/netcoreapp3.1/introducao
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/bin/Debug/netcoreapp3.1/introducao.deps.json
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/bin/Debug/netcoreapp3.1/introducao.runtimeconfig.json
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/bin/Debug/netcoreapp3.1/introducao.runtimeconfig.dev.json
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/bin/Debug/netcoreapp3.1/introducao.dll
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/bin/Debug/netcoreapp3.1/introducao.pdb
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/obj/Debug/netcoreapp3.1/introducao.csprojAssemblyReference.cache
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/obj/Debug/netcoreapp3.1/introducao.AssemblyInfoInputs.cache
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/obj/Debug/netcoreapp3.1/introducao.AssemblyInfo.cs
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/obj/Debug/netcoreapp3.1/introducao.dll
+/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/obj/Debug/netcoreapp3.1/introducao.pdb

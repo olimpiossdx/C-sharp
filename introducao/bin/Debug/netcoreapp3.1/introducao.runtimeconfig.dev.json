@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/olimpio/.dotnet/store/|arch|/|tfm|",
-      "/home/olimpio/.nuget/packages"
+      "/home/olmpiossdx/.dotnet/store/|arch|/|tfm|",
+      "/home/olmpiossdx/.nuget/packages"
     ]
   }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/olimpio/Documentos/estudos/c#/introducao/introducao.csproj": {}
+    "/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/introducao.csproj": {}
   },
   "projects": {
-    "/home/olimpio/Documentos/estudos/c#/introducao/introducao.csproj": {
+    "/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/introducao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/olimpio/Documentos/estudos/c#/introducao/introducao.csproj",
+        "projectUniqueName": "/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/introducao.csproj",
         "projectName": "introducao",
-        "projectPath": "/home/olimpio/Documentos/estudos/c#/introducao/introducao.csproj",
-        "packagesPath": "/home/olimpio/.nuget/packages/",
-        "outputPath": "/home/olimpio/Documentos/estudos/c#/introducao/obj/",
+        "projectPath": "/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/introducao.csproj",
+        "packagesPath": "/home/olmpiossdx/.nuget/packages/",
+        "outputPath": "/home/olmpiossdx/Documentos/Estudos/C-sharp/introducao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/olimpio/.nuget/NuGet/NuGet.Config"
+          "/home/olmpiossdx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }
