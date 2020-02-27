@@ -20,3 +20,14 @@ C:/Users/Olimpio/Documents/cursos/C-/capitulo 3/intervalo/obj/Debug/netcoreapp3.
 /home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.AssemblyInfo.cs
 /home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.dll
 /home/olimpio/Documentos/estudos/C-/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.pdb
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/bin/Debug/netcoreapp3.0/intervalo
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/bin/Debug/netcoreapp3.0/intervalo.deps.json
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/bin/Debug/netcoreapp3.0/intervalo.runtimeconfig.json
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/bin/Debug/netcoreapp3.0/intervalo.runtimeconfig.dev.json
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/bin/Debug/netcoreapp3.0/intervalo.dll
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/bin/Debug/netcoreapp3.0/intervalo.pdb
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.csprojAssemblyReference.cache
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.AssemblyInfoInputs.cache
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.AssemblyInfo.cs
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.dll
+/home/olmpiossdx/Documentos/Estudos/c#/capitulo 3/exercicios/intervalo/obj/Debug/netcoreapp3.0/intervalo.pdb

@@ -18,7 +18,7 @@ namespace composicao.Entities {
       Departament = departament;
     }
     public void AddContract (HourContract contract) {
-      Contracts.Add (contracts);
+      Contracts.Add (contract);
     }
     public void RemoveContract (HourContract contract) {
       Contracts.Remove (contract);
