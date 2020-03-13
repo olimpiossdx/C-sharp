@@ -1,4 +1,6 @@
 using System;
+using reservaHotel.Entities.Exceptions;
+
 namespace reservaHotel.Entities {
   class Reservation {
     public int RoomNumber { get; set; }
@@ -7,6 +9,10 @@ namespace reservaHotel.Entities {
 
     public Reservation () { }
     public Reservation (int roomNumber, DateTime checkIn, DateTime checkOut) {
+
+      if (checkOut <= checkIn) {
+        throw new DomainException ("Error in reservation: check-out date must be after check-in date");
+      }
       RoomNumber = roomNumber;
       CheckIn = checkIn;
       CheckOut = checkOut;
@@ -17,19 +23,19 @@ namespace reservaHotel.Entities {
       return ((int) duration.TotalDays);
     }
 
-    public string UpdateDates (DateTime checkIn, DateTime checkOut) {
+    public void UpdateDates (DateTime checkIn, DateTime checkOut) {
 
       DateTime now = DateTime.Now;
 
-      if (checkOut < now || checkIn < now) {
-        return ("Reservation: check-out date must be futures dates");
+      if (checkIn < now || checkOut < now) {
+        throw new DomainException ("Reservation: check-out date must be futures dates");
       }
-      if (checkOut <= now) {
-        return ("Check-out date must be futures dates");
+      if (checkOut <= checkIn) {
+        throw new DomainException ("Check-out date must be after check-in dates");
       }
       CheckIn = checkIn;
       CheckOut = checkOut;
-      return null;
+
     }
 
     public override string ToString () {
