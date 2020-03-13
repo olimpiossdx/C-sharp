@@ -16,10 +16,22 @@ namespace reservaHotel.Entities {
       TimeSpan duration = CheckOut.Subtract (CheckIn);
       return ((int) duration.TotalDays);
     }
-    public void UpdateDates (DateTime checkIn, DateTime checkOut) {
+
+    public string UpdateDates (DateTime checkIn, DateTime checkOut) {
+
+      DateTime now = DateTime.Now;
+
+      if (checkOut < now || checkIn < now) {
+        return ("Reservation: check-out date must be futures dates");
+      }
+      if (checkOut <= now) {
+        return ("Check-out date must be futures dates");
+      }
       CheckIn = checkIn;
       CheckOut = checkOut;
+      return null;
     }
+
     public override string ToString () {
       return ($"Room {RoomNumber}, check-in: {CheckIn.ToString("dd/MM/yyyy")}, check-out: {CheckOut.ToString("dd/MM/yyyy")}, {Duration()} nights");
     }
