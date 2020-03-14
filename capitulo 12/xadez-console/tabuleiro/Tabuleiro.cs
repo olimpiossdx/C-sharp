@@ -9,6 +9,9 @@ namespace tabuleiro {
       this.Colunas = colunas;
       this.pecas = new Peca[linhas, colunas];
     }
-
+    
+    public Peca peca (int linha, int coluna) {
+      return pecas[linha, coluna];
+    }
   }
 }
