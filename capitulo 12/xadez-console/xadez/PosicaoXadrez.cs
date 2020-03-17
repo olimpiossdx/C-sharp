@@ -1,15 +1,15 @@
 using tabuleiro;
 
 namespace xadrez {
-  class PosicaoXadez {
+  class PosicaoXadrez {
     public char Coluna { get; set; }
     public int Linha { get; set; }
 
-    public PosicaoXadez (char coluna, int linha) {
+    public PosicaoXadrez (char coluna, int linha) {
       this.Coluna = coluna;
       this.Linha = linha;
     }
-    
+
     public Posicao toPosicao () {
       return new Posicao (8 - Linha, Coluna - 'a');
     }
