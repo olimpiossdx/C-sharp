@@ -1,13 +1,13 @@
 namespace tabuleiro {
-  class Peca {
+  abstract class Peca {
     public Posicao Posicao { get; set; }
     public Cor Cor { get; protected set; } // acessível pela classe e subclasses
     public int QteMovimentos { get; set; }
-    public Tabuleiro Tab { get; protected set; }
+    public Tabuleiro Tabuleiro { get; protected set; }
 
-    public Peca (Tabuleiro tab, Cor cor) {
+    public Peca (Tabuleiro tabuleiro, Cor cor) {
       this.Posicao = null;
-      this.Tab = tab;
+      this.Tabuleiro = tabuleiro;
       this.Cor = cor;
       this.QteMovimentos = 0;
     }
@@ -15,5 +15,7 @@ namespace tabuleiro {
     public void IncrementarQteMovimentos () {
       QteMovimentos++;
     }
+
+    public abstract bool[, ] MovimentosPossiveis ();
   }
 }
